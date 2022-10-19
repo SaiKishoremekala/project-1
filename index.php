@@ -175,7 +175,7 @@ if(isset($message))
 			<!--menu ends-->
 		</div>
 	</div>
-	<!-- /.header -->
+	<!-- /.header ending -->
 
 	 <!-- Message button -->
     <?php if(isset($_SESSION['cust_id'])){include 'message.php';}?>
